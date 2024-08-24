@@ -1,6 +1,4 @@
-#Nibras Nibras
-#200578629
-#August 8th, 2024
+#Nibras Khalid
 
 """Budget Tracker Script
 
